@@ -46,7 +46,7 @@
 					"name": "Recovery"
 				}
 			],
-			"name": "i9210t",
+			"name": "GT-I9210T",
 			"ubuntu_touch": {
 				"req_multirom": "",
 				"req_recovery": ""
