@@ -1,0 +1,59 @@
+{
+	"status": "ok",
+	"date": "2015-01-11",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/multirom-20150110-v30-UNOFFICIAL-i9210t.zip?raw=true",
+						"version": "30c-20150110",
+						"type": "multirom",
+						"size": 3572056,
+						"md5": "ed1ee55ed3aefcd856afd3ca3ac4c533"
+					},
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/TWRP-2.8.3-Multirom-v1.0.0-UNOFFICIAL-i9210t.zip?raw=true",
+						"version": "TWRP-2.8.3-mrom-v1.0.0",
+						"type": "recovery",
+						"size": 9707545,
+						"md5": "76b62fcba4caaa24b8357d42e02105be"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/DreamKernel-I9210T-CM11KE-v1.0.0-20150111060607.zip?raw=true",
+						"version": "CyanogenMod 11.0 - 20150107",
+						"md5": "7c80d1030610e98b0e23d72903e94a9d",
+						"type": "kernel",
+						"size": 6349744
+					},
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/multirom_uninstaller-v30-UNOFFICIAL-i9210t.zip?raw=true",
+						"version": "v30-UNOFFICIAL-i9210t",
+						"type": "uninstaller",
+						"size": 1570331,
+						"md5": "4d2f5b698ca61eb62e88d9a0028bd112"
+					}
+				],
+			"changelogs":
+				[
+					{
+						"url": "https://talustus.github.io/multirom/i9210t/changelogs/changelog_multirom.txt",
+						"name": "MultiROM"
+					},
+					{
+						"url": "https://talustus.github.io/multirom/i9210t/changelogs/changelog_recovery.txt",
+						"name": "Recovery"
+					}
+				],
+			"name": "i9210t",
+			"ubuntu_touch":
+				{
+					"req_multirom": "",
+					"req_recovery": ""
+				}
+			}
+		]
+}

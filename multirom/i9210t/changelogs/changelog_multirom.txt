@@ -1,0 +1,4 @@
+10.01.2015
+==========
+* Initial MultiRom Build for I9210T
+* Device bringup and various fixes
