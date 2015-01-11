@@ -8,14 +8,14 @@
 			"files": [
 				{
 					"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/multirom-20150110-v30-UNOFFICIAL-i9210t.zip?raw=true",
-					"version": "30c-20150110",
+					"version": "30c",
 					"type": "multirom",
 					"size": 3572056,
 					"md5": "ed1ee55ed3aefcd856afd3ca3ac4c533"
 				},
 				{
 					"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/i9210t/TWRP-2.8.3-Multirom-v1.0.0-UNOFFICIAL-i9210t.zip?raw=true",
-					"version": "TWRP-2.8.3-mrom-v1.0.0",
+					"version": "mrom20150110-00",
 					"type": "recovery",
 					"size": 9707545,
 					"md5": "76b62fcba4caaa24b8357d42e02105be"
