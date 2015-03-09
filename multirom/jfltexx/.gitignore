@@ -1,0 +1,4 @@
+# ignore md5 and tar files
+*.md5
+*.md5sum
+*.tar
