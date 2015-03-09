@@ -1,0 +1,4 @@
+10.03.2015
+==========
+* Initial MultiRom-Recovery Build for I9505
+* Device bringup and various fixes

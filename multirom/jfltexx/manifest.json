@@ -1,0 +1,64 @@
+{
+	"status": "ok",
+	"date": "2015-03-10",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://talustus.github.io/multirom/jfltexx/multirom-20150310-v31-UNOFFICIAL-jfltexx.zip",
+					"version": "31",
+					"type": "multirom",
+					"size": 3575630,
+					"md5": "dcf61bf83b4396c2bb8a0591fcc89f42"
+				},
+				{
+					"url": "https://talustus.github.io/multirom/jfltexx/TWRP_multirom_jfltexx_20150310-00.img",
+					"version": "mrom20150310-00",
+					"type": "recovery",
+					"size": 9672704,
+					"md5": "43855ab567ab64dd9776759979beb705"
+				},
+				{
+					"extra": {"releases":["4.4.4"]},
+					"url": "https://talustus.github.io/multirom/jfltexx/Kernel-CM11.0_20150310_jfltexx.zip",
+					"version": "CyanogenMod 11.0 - 20150310",
+					"md5": "79c79bbec58571fc6ca1fcaed6abbe11",
+					"size": 6309048,
+					"type": "kernel"
+				},
+				{
+					"extra": {"releases":["5.0.2"]},
+					"url": "https://talustus.github.io/multirom/jfltexx/Kernel-CM12.0_20150310_jfltexx.zip",
+					"version": "CyanogenMod 12.0 - 20150310",
+					"md5": "9bd173eb82b57a71fca986b4454f5334",
+					"size": 6696877,
+					"type": "kernel"
+				},
+				{
+					"url": "https://talustus.github.io/multirom/jfltexx/multirom_uninstaller-v31-UNOFFICIAL-jfltexx.zip",
+					"version": "31",
+					"type": "uninstaller",
+					"size": 1570100,
+					"md5": "c50fb4037a65fe3d2cd7454045b3bc87"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://talustus.github.io/multirom/jfltexx/changelogs/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://talustus.github.io/multirom/jfltexx/changelogs/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "GT-I9505",
+			"ubuntu_touch": {
+				"req_multirom": "",
+				"req_recovery": ""
+			}
+		}
+	]
+}
