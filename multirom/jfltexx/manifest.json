@@ -1,0 +1,135 @@
+{
+	"status": "ok",
+	"date": "2015-03-10",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/jfltexx/multirom-20150310-v31-UNOFFICIAL-jfltexx.zip?raw=true",
+						"version": "31",
+						"type": "multirom",
+						"size": 3575630,
+						"md5": "dcf61bf83b4396c2bb8a0591fcc89f42"
+					},
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/jfltexx/TWRP_multirom_jfltexx_20150310-00.img?raw=true",
+						"version": "mrom20150310-00",
+						"type": "recovery",
+						"size": 9672704,
+						"md5": "43855ab567ab64dd9776759979beb705"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/jfltexx/Kernel-CM11.0_20150310_jfltexx.zip?raw=true",
+						"version": "CM-11.0 Kernel - 4.4.4 - 20150310",
+						"md5": "79c79bbec58571fc6ca1fcaed6abbe11",
+						"type": "kernel",
+						"size": 6309048
+					},
+					{
+						"extra": {"releases":["5.0"]},
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/jfltexx/Kernel-CM12.0_20150310_jfltexx.zip?raw=true",
+						"version": "CM-12.0 Kernel - 5.0.2 - 20150310",
+						"md5": "9bd173eb82b57a71fca986b4454f5334",
+						"type": "kernel",
+						"size": 6696877
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip",
+						"version": "Alucard v2.7.2a - AOSP/CM11 till 6 August",
+						"md5": "bbbee2a886f0e7ffd35efe2541411325",
+						"type": "kernel",
+						"size": 9821136
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/GE-4.4/Kernel-Alucard-V2.4d.zip",
+						"version": "Alucard v2.4d - Google Edition 4.4 ROM",
+						"md5": "40433965298c861fd45ee413a06caae2",
+						"type": "kernel",
+						"size": 10216578
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/TW-4.4/Kernel-Alucard-V2.3ga.zip",
+						"version": "Alucard v2.3ga - TouchWiz ROMs",
+						"md5": "226b2924cd5be721a8b859a3d74c3863",
+						"type": "kernel",
+						"size": 11089388
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041237&d=1417360993",
+						"version": "Googy-Max3 v1.2.2 - AOSP/CM ROMs after 6 Aug",
+						"md5": "b274b731dd91f393309c201311819bae",
+						"type": "kernel",
+						"size": 6977058
+					},
+					{
+						"extra": {"releases":["5.0"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3066181&d=1418692220",
+						"version": "Googy-Max3 v1.2.3c - Google Edition 5.0 ROM",
+						"md5": "3166fa67d03cd9a3f78c73ca0cde81d9",
+						"type": "kernel",
+						"size": 10275309
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062525&d=1418494394",
+						"version": "Googy-Max3 v1.2.3 - Google Edition 4.4 ROM",
+						"md5": "121b7d47a19db96a1835e0669ef13ef6",
+						"type": "kernel",
+						"size": 9807436
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062523&d=1418494276",
+						"version": "Googy-Max3 v1.2.3 - TouchWiz ROMs",
+						"md5": "69a3c1e89d61cef2ddf9bc6954687dd1",
+						"type": "kernel",
+						"size": 10592641
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.5.zip",
+						"version": "Imperium v1.5 - TouchWiz ROMs",
+						"md5": "d9dc4e124a1798da7da9186d4a386ea5",
+						"type": "kernel",
+						"size": 14664104
+					},
+					{
+						"url": "https://github.com/Talustus/talustus.github.io/blob/master/multirom/jfltexx/multirom_uninstaller-v31-UNOFFICIAL-jfltexx.zip?raw=true",
+						"version": "31",
+						"type": "uninstaller",
+						"size": 1570100,
+						"md5": "c50fb4037a65fe3d2cd7454045b3bc87"
+					}
+				],
+			"changelogs":
+				[
+					{
+						"url": "http://talustus.github.io/multirom/jfltexx/changelogs/changelog_multirom.txt",
+						"name": "MultiROM"
+					},
+					{
+						"url": "http://talustus.github.io/multirom/jfltexx/changelogs/changelog_recovery.txt",
+						"name": "Recovery"
+					},
+           {
+						"url": "http://talustus.github.io/multirom/jfltexx/changelogs/changelog_kernel.txt",
+						"name": "Kernel"
+					}
+				],
+			"name": "jfltexx",
+			"ubuntu_touch":
+				{
+					"req_multirom": "",
+					"req_recovery": ""
+				}
+			}
+		]
+}

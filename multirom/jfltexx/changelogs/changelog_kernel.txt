@@ -1,0 +1,9 @@
+10.03.2015 (Kernel CM-11.0)
+=======================
+* Added Kernel-CM11.0_20150310_jfltexx.zip
+           for CM-11.0 Roms, BuildDate --> 10.03.2015 and newer
+
+10.03.2015 (Kernel CM-12.0)
+=======================
+* Added Kernel-CM12.0_20150310_jfltexx.zip
+           for CM-12.0 Roms, BuildDate --> 10.03.2015 and newer
